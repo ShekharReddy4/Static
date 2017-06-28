@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {
+      "Assignment4/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "compile": {
+          "bin/placeholder/net451/Assignment4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/net451/Assignment4.dll": {}
+        }
+      },
+      "DLL3/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "dependencies": {
+          "Assignment4": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/net451/DLL3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/net451/DLL3.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win7-x86": {
+      "Assignment4/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "compile": {
+          "bin/placeholder/net451/Assignment4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/net451/Assignment4.dll": {}
+        }
+      },
+      "DLL3/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "dependencies": {
+          "Assignment4": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/net451/DLL3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/net451/DLL3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment4/1.0.0": {
+      "type": "project",
+      "path": "../Assignment4/Assignment4.csproj",
+      "msbuildProject": "../Assignment4/Assignment4.csproj"
+    },
+    "DLL3/1.0.0": {
+      "type": "project",
+      "path": "../DLL3/DLL3.csproj",
+      "msbuildProject": "../DLL3/DLL3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": [
+      "DLL3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shekhar.mittapelly\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\DLL2\\DLL2.csproj",
+      "projectName": "DLL2",
+      "projectPath": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\DLL2\\DLL2.csproj",
+      "outputPath": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\DLL2\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net451"
+      ],
+      "files": {
+        "lib/net451/DLL2.dll": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\DLL2\\bin\\placeholder\\net451\\DLL2.dll"
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {
+            "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\DLL3\\DLL3.csproj": {
+              "projectPath": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\DLL3\\DLL3.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

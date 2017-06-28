@@ -1,0 +1,8 @@
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\bin\Debug\netcoreapp1.1\DLL3.deps.json
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\bin\Debug\netcoreapp1.1\DLL3.runtimeconfig.json
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\bin\Debug\netcoreapp1.1\DLL3.runtimeconfig.dev.json
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\bin\Debug\netcoreapp1.1\DLL3.dll
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\bin\Debug\netcoreapp1.1\DLL3.pdb
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\obj\Debug\netcoreapp1.1\DLL3.AssemblyInfo.cs
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\obj\Debug\netcoreapp1.1\DLL3.dll
+C:\Users\shekhar.mittapelly\Desktop\NewAssignments\DLL3\obj\Debug\netcoreapp1.1\DLL3.pdb

@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {},
+    ".NETFramework,Version=v4.5.1/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\shekhar.mittapelly\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\Assignment4\\Assignment4.csproj",
+      "projectName": "Assignment4",
+      "projectPath": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\Assignment4\\Assignment4.csproj",
+      "outputPath": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\Assignment4\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net451"
+      ],
+      "files": {
+        "lib/net451/Assignment4.dll": "C:\\Users\\shekhar.mittapelly\\Desktop\\NewAssignments\\Assignment4\\bin\\placeholder\\net451\\Assignment4.dll"
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
